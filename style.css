@@ -1,0 +1,27 @@
+@font-face {
+  font-family: 'Manhattan-Life';
+  src:  url('fonts/Manhattan-Life.eot?43kl31');
+  src:  url('fonts/Manhattan-Life.eot?43kl31#iefix') format('embedded-opentype'),
+    url('fonts/Manhattan-Life.ttf?43kl31') format('truetype'),
+    url('fonts/Manhattan-Life.woff?43kl31') format('woff'),
+    url('fonts/Manhattan-Life.svg?43kl31#Manhattan-Life') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'Manhattan-Life' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
